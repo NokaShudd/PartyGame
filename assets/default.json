@@ -1,0 +1,79 @@
+{
+    "settings": {
+        "defaultFullScreen": false,
+        "lang": "fr"
+    },
+    "rules": [
+        {
+            "id": 0,
+            "name": "Ca bois fort", 
+            "tagsId": [0], 
+            "description": "Fais un triple  §3§ salto || bois §2§ verre",
+            "difficulty": 1
+        },
+        {
+            "id": 0,
+            "name": "Bonjour", 
+            "tagsId": [1], 
+            "description": "Dis bonjour 5 fois || prend §1§ shot",
+            "difficulty": 4
+        },
+        {
+            "id": 0,
+            "name": "Hello", 
+            "tagsId": [], 
+            "description": "Y'a pas de pénalité || %0%",
+            "difficulty": 0
+        }
+    ],
+    "players": [
+        {
+            "id": 0,
+            "name": "Nico",
+            "nopeTags": [0],
+            "genre": 0,
+            "orr": 0
+        },
+        {
+            "id": 1,
+            "name": "Nicole",
+            "nopeTags": [1],
+            "genre": 1,
+            "orr": 1
+        },
+        {
+            "id": 2,
+            "name": "Rico",
+            "nopeTags": [0, 1],
+            "genre": 2,
+            "orr": 2
+        },
+        {
+            "id": 3,
+            "name": "Aaa",
+            "nopeTags": [],
+            "genre": 0,
+            "orr": 1
+        },
+        {
+            "id": 4,
+            "name": "Bbbbbbbbbbbbbbbbbbb",
+            "nopeTags": [],
+            "genre": 0,
+            "orr": 1
+        }
+    ],
+    "tags" : [
+        {
+            "id": 0,
+            "name": "Règles de bases",
+            "description": "Règles présentes dès de téléchargement."
+        },
+        {
+            "id": 1,
+            "name": "Règles 2",
+            "description": "Règles 2."
+        }
+    ]
+
+}
